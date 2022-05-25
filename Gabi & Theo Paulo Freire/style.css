@@ -1,0 +1,100 @@
+body {
+    padding: 0px;
+    margin: 0;
+}
+
+footer {
+    padding: 10px;
+    text-align: center;
+}
+
+#cabecalho {
+    background-image: url(/imgs/img-cabecalho.png);
+    background-position-x: center;
+    background-position-y: -90px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 45vh;
+}
+
+.container {
+    display: flex;
+    padding-top: 30px;
+    padding-bottom: 30px
+}
+
+.sec1 {
+    background-color: #eeeeee;
+}
+
+.sec2 {
+    background-color:#e6e6e6;
+}
+
+.bibliografia {
+    font-family:'Times New Roman', Times, serif;
+    font-size: large;
+    text-align: center;
+    padding-top: 1px;
+    padding-bottom: 30px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.bibliografia h1 {
+    font-size: 40px;
+}
+.bibliografia h2 {
+    font-size: 19px;
+    margin-top: -3.5vh;
+    margin-bottom: 4vh;
+}
+.bibliografia p {
+    text-align: justify;
+}
+
+.paulinho img {
+    height: 400px;
+    margin-right: 30px;
+}
+
+.ideologia {
+    font-size: large;
+    text-align: justify;
+    padding-right: 50px;
+}
+
+.metodo {
+    font-size: large;
+    text-align: justify;
+    padding-left: 50px;
+}
+
+.desenho img {
+    height: 300px;
+    margin-left: 30px;
+}
+
+.citacao {
+    padding-bottom: 5px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+.citacao img {
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.texto {
+    text-align: center;
+    font-size: 25px;
+    font-style: italic;
+}
+
+.nome {
+    text-align: center;
+    font-size: 20px;
+
+}
